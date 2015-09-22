@@ -1,0 +1,17 @@
+Useful links that I save obsessively
+
+Accepting command line arguments in C using argc and argv
+http://www.cprogramming.com/tutorial/c/lesson14.html
+
+Scoping in C
+https://en.wikipedia.org/wiki/Global_variable#C_and_C.2B.2B
+
+Tokenizing in C
+https://stackoverflow.com/questions/266357/tokenizing-strings-in-c
+http://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm
+
+Static vs define vs const in C
+https://stackoverflow.com/questions/2611063/static-define-and-const-in-c
+
+Concat String Literals
+https://stackoverflow.com/questions/308695/how-to-concatenate-const-literal-strings-in-c
